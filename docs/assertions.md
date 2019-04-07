@@ -29,7 +29,4 @@ else:
 * Don't use for data validation
 * beware of asserts that never fail (i.e. tuples are truthy)
 
-#### Source
-
-* "Python Tricks The Book, A Buffet of Awesome Python Features"
-* Dan Bader
+Sources: _Bader_

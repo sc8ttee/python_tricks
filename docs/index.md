@@ -5,23 +5,25 @@ Python examples and tricks as I come across them.
 * * *
 
 ## Iterables
-- Iterable Data Structures
+- Data Structures
 	- Lists
 	- Sets
 	- Dictionaries
-- Iterable Functions
+- Functions
 	- Lambda
 	- Map
 	- Filter
 	- Reduce
 	- Sorting
 
-## Exceptions & Logging
-- [Assertions](./assertions.html)
-- Logging
-- Unit Tests
-
 ## Modules
 - JSON
 - CSV
 - Text
+
+## Exceptions, etc.
+- [Assertions](./assertions.html)
+- Logging
+- Unit Tests
+
+## [Sources](./sources.html)
