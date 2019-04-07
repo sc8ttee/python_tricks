@@ -4,9 +4,28 @@ layout: default
 
 # Home
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Python examples and tricks as I come across them.
 
 * * *
 
-## Exceptions 
+## Iterables
+### Iterable Data Structures
+* Lists
+* Sets
+* Dictionaries
+### Iterable Functions
+* Lambda
+* Map
+* Filter
+* Reduce
+* Sorting
+
+## Exceptions & Logging
 * [Assertions](./assertions.html)
+* Logging
+* Unit Tests
+
+## Modules
+* JSON
+* CSV
+* Text
