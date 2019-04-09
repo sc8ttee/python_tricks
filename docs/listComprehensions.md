@@ -2,7 +2,8 @@
 
 #### Usage
 
-> build a simple list
+* build a simple list
+* * *
 * list = [_expr_ for _val_ in _collection_]
 * list = [_expr_ for _val_ in _collection_ if _test_]
 * list = [_expr_ for _val_ in _collection_ if _test_ and _test2_]

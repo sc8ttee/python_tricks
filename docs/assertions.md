@@ -2,8 +2,8 @@
 
 #### Usage
 
-> internal self checks
-> passes error if impossible conditions are met
+* internal self checks
+* passes error if impossible conditions are met
 
 #### Examples
 
