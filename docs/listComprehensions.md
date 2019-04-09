@@ -4,9 +4,9 @@
 
 * build a simple list
 * [_expr_ for _val_ in _collection_]
-* [_expr_ for _val_ in _collection_ if _<test>_]
-* [_expr_ for _val_ in _collection_ if _<test>_ and _<test2>_]
-* [_expr_ for _val_ in _collection_ if _<test>_ and _val2_ in _collection2_]
+* [_expr_ for _val_ in _collection_ if _test_]
+* [_expr_ for _val_ in _collection_ if _test_ and _test2_]
+* [_expr_ for _val_ in _collection_ if _test_ and _val2_ in _collection2_]
 
 #### Examples
 
