@@ -18,7 +18,7 @@ Python examples and tricks as I come across them.
 	- Sorting
 
 ## Formatting
-- [Commas & Multiline](./commasMultiline.html)
+- [Commas & Multilines](./commasMultiline.html)
 	
 ## Exceptions, etc.
 - [Assertions](./assertions.html)
