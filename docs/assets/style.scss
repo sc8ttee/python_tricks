@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 
 header {
-  display: none;
+  display: none; !important
 }
 
 .inner {
-  max-width: 100%;
+  max-width: 100%; !important
 }
