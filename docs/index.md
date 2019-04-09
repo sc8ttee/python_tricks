@@ -4,23 +4,23 @@ Python examples and tricks as I come across them.
 
 * * *
 
-## Iterables
-- Data Structures
-	- Lists
-		- [List Comprehensions](./listComprehensions.html)
-	- Sets
-	- Dictionaries
-- Functions
-	- Lambda
-	- Map
-	- Filter
-	- Reduce
-	- Sorting
+## Iterate
 
-## Formatting
+- Lists
+	- [List Comprehensions](./listComprehensions.html)
+- Sets
+- Dictionaries
+
+- Lambda
+- Map
+- Filter
+- Reduce
+- Sorting
+
+## Format
 - [Commas & Multilines](./commasMultiline.html)
 	
-## Exceptions, etc.
+## Exceptions
 - [Assertions](./assertions.html)
 - Logging
 - Unit Tests
