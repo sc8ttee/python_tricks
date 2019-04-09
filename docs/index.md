@@ -6,10 +6,12 @@ Python examples and tricks as I come across them.
 
 ## Iterate
 
-- Lists
-  - [List Comprehensions](./listComprehensions.html)
-- Sets
-- Dictionaries
+### Lists
+- [List Comprehensions](./listComprehensions.html)
+
+### Sets
+
+### Dictionaries
 
 - Lambda
 - Map
