@@ -1,10 +1,8 @@
-# Home
-
-Python examples and tricks as I come across them.
+# Python examples and tricks as I come across them.
 
 * * *
 
-## Iterate
+# Iterate
 
 ### Lists
 - [List Comprehensions](./listComprehensions.html)
@@ -20,18 +18,18 @@ Python examples and tricks as I come across them.
 - Reduce
 - Sorting
 
-## Format
+# Format
 - [Commas & Multilines](./commasMultiline.html)
 	
-## Exceptions
+# Exceptions
 - [Assertions](./assertions.html)
 - Logging
 - Unit Tests
 
-## Modules
+# Modules
 - arcpy
 - JSON
 - CSV
 - Text
 
-#### [Sources](./sources.html)
+# [Sources](./sources.html)
