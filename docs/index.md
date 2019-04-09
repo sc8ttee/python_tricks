@@ -17,7 +17,7 @@
 # Format
 - [Commas & Multilines](./commasMultiline.html)
 	
-# Exceptions
+# Error
 - [Assertions](./assertions.html)
 - Logging
 - Unit Tests
