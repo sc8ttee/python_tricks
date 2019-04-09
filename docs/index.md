@@ -1,7 +1,3 @@
-# Python examples and tricks as I come across them.
-
-* * *
-
 # Iterate
 
 ### Lists
@@ -33,3 +29,4 @@
 - Text
 
 # [Sources](./sources.html)
+# [About](./about.html)
