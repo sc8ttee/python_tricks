@@ -10,6 +10,7 @@ Python examples and tricks as I come across them.
 	- Sets
 	- Dictionaries
 - Functions
+	- [List Comprehensions](./listComprehensions.html)
 	- Lambda
 	- Map
 	- Filter
