@@ -3,7 +3,7 @@
 #### Usage
 
 * internal self checks
-* passes error if impossible conditions are met
+* use to pass error if impossible conditions are met
 
 #### Examples
 
