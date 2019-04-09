@@ -13,6 +13,7 @@ Python examples and tricks as I come across them.
 
 ### Dictionaries
 
+### Functions
 - Lambda
 - Map
 - Filter
