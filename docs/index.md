@@ -7,7 +7,7 @@ Python examples and tricks as I come across them.
 ## Iterate
 
 - Lists
-	- [List Comprehensions](./listComprehensions.html)
+  - [List Comprehensions](./listComprehensions.html)
 - Sets
 - Dictionaries
 
