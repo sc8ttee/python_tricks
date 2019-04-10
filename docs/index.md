@@ -18,6 +18,7 @@
 - [Commas & Multilines](./commasMultiline.html)
 	
 # Error
+- [Exceptions](./exceptions.html)
 - [Assertions](./assertions.html)
 - [Logging](./logging.html)
 - Unit Tests
