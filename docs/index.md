@@ -19,7 +19,7 @@
 	
 # Error
 - [Assertions](./assertions.html)
-- Logging
+- [Logging](./logging.html)
 - Unit Tests
 
 # Modules
