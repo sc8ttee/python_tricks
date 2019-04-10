@@ -8,6 +8,7 @@
 ### Dictionaries
 
 ### Functions
+- [Looping](./looping.html)
 - Lambda
 - Map
 - Filter
