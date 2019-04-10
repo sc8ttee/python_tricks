@@ -32,6 +32,23 @@ logger.info("this is a info message")
 logger.warning("this is a warning message")
 logger.error("this is a error message")
 logger.critical("this is a critical message")
+
+def quadraticFormula(a, b, c):
+	""" Return the solution ax^2 + bx + c = 0 """
+	loggger.info("quadratic formula({0}, {1}, {2})".format(a, b, c)
+	
+	# Compute the discriminant
+	logger.debug("# Compute the discriminant")
+	disc = b**2 - 4*a*c
+	
+	# Compute the two roots
+	logger.debug("# Compute the two roots")
+	root1 = (-b + math.sqrt(disc)) / (2*a)
+	root2 = (-b - math.sqrt(disc)) / (2*a)
+	
+	# Return the roots
+	logger.debug("# Return the roots")
+	return (root1, root2)
 ```
 
 #### Disclaimers
