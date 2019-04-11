@@ -49,6 +49,7 @@ for x in iter(num, 3):
 	
 # example 7
 # loop with two outcomes
+# if no break return -1, if break return i
 def find(seq, target):
 	for i, value in enumerate(seq):
 		if value == target:
