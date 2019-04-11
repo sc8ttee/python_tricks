@@ -42,12 +42,6 @@ for color in sorted(colors, key=len):
     print color
     
 # example 6
-# loop until value 3 encountered
-num = [1, 2, 3, 4, 5, 6]
-for x in iter(num, 3):
-    print x
-    
-# example 7
 # loop with two outcomes
 # if no break return -1, if break return i
 def find(names, target):
