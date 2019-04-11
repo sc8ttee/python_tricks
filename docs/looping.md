@@ -45,7 +45,17 @@ for color in sorted(colors, key=len):
 # loop until value 3 encountered
 num = [1, 2, 3, 4, 5, 6]
 for x in iter(num, 3):
-    print x
+	print x
+	
+# example 7
+# loop with two outcomes
+def find(seq, target):
+	for i, value in enumerate(seq):
+		if value == target:
+			break
+	else:
+		return -1
+	return i
 ```
 
 #### Disclaimers
