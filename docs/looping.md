@@ -50,13 +50,15 @@ for x in iter(num, 3):
 # example 7
 # loop with two outcomes
 # if no break return -1, if break return i
-def find(seq, target):
-    for i, value in enumerate(seq):
+def find(names, target):
+    for i, value in enumerate(names):
         if value == target:
             break
     else:
-        return -1
-    return i
+        rstring = "Target found"
+        return rstring
+    rstring = "Target not found"
+    return rstring
 ```
 
 #### Disclaimers
