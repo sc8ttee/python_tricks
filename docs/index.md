@@ -10,7 +10,7 @@
 ### Functions
 - [Looping](./looping.html)
 - Lambda
-- Map
+- [Map](./map.html)
 - [Filter](./filter.hmtl)
 - Reduce
 - Sorting
