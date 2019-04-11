@@ -11,7 +11,7 @@
 - [Looping](./looping.html)
 - Lambda
 - Map
-- Filter
+- [Filter](./filter.hmtl)
 - Reduce
 - Sorting
 

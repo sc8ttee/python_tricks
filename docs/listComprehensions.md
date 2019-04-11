@@ -17,8 +17,8 @@ squares = [i**2 for i in range(1,101)]
 
 # example 2
 # from movies, creates a list of movies that start with "G"
-movies = ["Citizen Kane", "Groundhog Day"]
-gmovies = [_title for title in movies if title.startswith("G")]
+num = [1, 2, 3]
+gmovies = [str(x) for x in num if x < 2]
 
 # example 3
 # from movies, creates a list of movies that are before 2000
