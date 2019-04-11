@@ -42,7 +42,6 @@ for color in sorted(colors, key=len):
     print color
     
 # example 6
-# loop with two outcomes
 # if no break goto else, if break skip else
 def find(names, target):
     for i, value in enumerate(names):
