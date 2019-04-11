@@ -43,15 +43,15 @@ for color in sorted(colors, key=len):
     
 # example 6
 # loop with two outcomes
-# if no break return -1, if break return i
+# if no break goto else, if break skip else
 def find(names, target):
     for i, value in enumerate(names):
         if value == target:
             break
     else:
-        rstring = "Target found"
+        rstring = "Target not found"
         return rstring
-    rstring = "Target not found"
+    rstring = "Target found"
     return rstring
 ```
 
