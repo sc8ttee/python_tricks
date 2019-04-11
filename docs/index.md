@@ -12,7 +12,6 @@
 - Lambda
 - [Map](./map.html)
 - [Filter](./filter.html)
-- Reduce
 - Sorting
 
 # Format

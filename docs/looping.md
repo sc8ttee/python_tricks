@@ -40,6 +40,12 @@ for color in sorted(colors, reversed=True):
 	
 for color in sorted(colors, key=len):
 	print color
+	
+# example 6
+# loop until value 3 encountered
+num = [1, 2, 3, 4, 5, 6]
+for x in iter(num, 3):
+    print x
 ```
 
 #### Disclaimers
