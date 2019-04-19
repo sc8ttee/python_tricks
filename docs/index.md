@@ -31,3 +31,4 @@
 
 # [Sources](./sources.html)
 # [About](./about.html)
+# [Setup](./setup.html)
