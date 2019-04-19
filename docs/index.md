@@ -7,6 +7,9 @@
 
 ### Dictionaries
 
+### Tuples
+- [Named Tuples](./namedtuples.html)
+
 ### Functions
 - [Looping](./looping.html)
 - Lambda
