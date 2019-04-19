@@ -8,15 +8,15 @@ python -m pip install jupyter
 ```
 
 ## Launching
-- Run python 2.7 in cmd
+Run python 2.7 in cmd
 ```
 py -2
 ```
-- Run python 3.7 in cmd
+Run python 3.7 in cmd
 ```
 py -3
 ```
-- Launch Jupyter from cmd
+Launch Jupyter from cmd
 ```
 jupyter notebook
 ```
