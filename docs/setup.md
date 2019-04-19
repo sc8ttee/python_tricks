@@ -10,3 +10,6 @@ python -m pip install jupyter
 ```
 jupyter notebook
 ```
+
+## misc.
+- [Installing pip](https://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py)
