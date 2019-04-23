@@ -1,4 +1,4 @@
-# Iterate
+# Iterables/Iterate
 
 ### Lists
 - [List Comprehensions](./listComprehensions.html)
@@ -17,14 +17,17 @@
 - [Filter](./filter.html)
 - Sorting
 
-# Format
-- [Commas & Multilines](./commasMultiline.html)
+# Accessors
+- [Open Files](./open.html)
 	
 # Error
 - [Exceptions](./exceptions.html)
 - [Assertions](./assertions.html)
 - [Logging](./logging.html)
 - Unit Tests
+
+# Formatting
+- [Commas & Multilines](./commasMultiline.html)
 
 # Modules
 - arcpy
