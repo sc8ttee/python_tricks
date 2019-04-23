@@ -20,7 +20,7 @@
 # Accessors
 - [Open Files](./open.html)
 	
-# Error
+# Error/Validations
 - [Exceptions](./exceptions.html)
 - [Assertions](./assertions.html)
 - [Logging](./logging.html)
