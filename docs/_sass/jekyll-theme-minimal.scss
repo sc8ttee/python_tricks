@@ -110,6 +110,11 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header > h1 {
+  font-weight: 700;
+  font-size: 200%; 
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
