@@ -35,6 +35,6 @@
 - CSV
 - Text
 
-# [Sources](./sources.html)
+# [Sources & Resources](./sources.html)
 # [About](./about.html)
 # [Setup](./setup.html)
