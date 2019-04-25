@@ -3,7 +3,7 @@
 
 body {
   background-color: #fff;
-  padding:50px;
+  padding: 20px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -106,7 +106,7 @@ img {
 
 header {
   width:100px;
-  float:left;
+  //float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -190,7 +190,7 @@ hr {
 
 footer {
   width:100px;
-  float:left;
+  //float:left;
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
