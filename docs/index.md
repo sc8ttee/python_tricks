@@ -24,7 +24,7 @@
 - [Exceptions](./exceptions.html)
 - [Assertions](./assertions.html)
 - [Logging](./logging.html)
-- Unit Tests
+- [Unit Tests](./unitTest.html)
 
 # Formatting
 - [Commas & Multilines](./commasMultiline.html)
