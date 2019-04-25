@@ -3,12 +3,17 @@
 #### Usage
 
 * test results of a script
-* create a test_script.py or a script_test.py file to hold your unit test
-* after script.py and test_script.py is implemented, run in cmd: 
+* check for more assert methods
+
+#### Setup
+
+1. for every script.py, create a test_script.py (or script_test.py)
+2. implement unittests in test_script.py
+3. after test_script.py is implemented, run in cmd: 
 ```python
 python -m unittest test_script
 ```
-* check assert methods
+
 
 #### Examples
 
