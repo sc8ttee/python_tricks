@@ -110,11 +110,6 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header > h1 {
-  font-weight: 700;
-  font-size: 200%; 
-}
-
 ul.downloads {
   list-style:none;
   height:40px;
@@ -194,7 +189,7 @@ hr {
 
 footer {
   width:270px;
-  margin: auto;
+  float:right;
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
