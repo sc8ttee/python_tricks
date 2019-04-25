@@ -105,8 +105,8 @@ img {
 }
 
 header {
-  width:100px;
-  //float:left;
+  width:270px;
+  margin: auto;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -173,7 +173,7 @@ strong {
 
 section {
   width:500px;
-  float:right;
+  margin: auto;
   padding-bottom:50px;
 }
 
@@ -189,8 +189,8 @@ hr {
 }
 
 footer {
-  width:100px;
-  //float:left;
+  width:270px;
+  margin: auto;
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
