@@ -48,10 +48,8 @@ def find(names, target):
         if value == target:
             break
     else:
-        rstring = "Target not found"
-        return rstring
-    rstring = "Target found"
-    return rstring
+        return "Target not found"
+    return "Target found"
 ```
 
 #### Disclaimers
