@@ -4,7 +4,7 @@
 
 * test results of a script
 * create a test_script.py or a script_test.py file to hold your unit test
-* in cmd run 
+* after script.py and test_script.py is implemented, run in cmd: 
 ```python
 python -m unittest test_script
 ```
