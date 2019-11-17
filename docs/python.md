@@ -1,33 +1,33 @@
 # Iterables/Iterate
 
 ### Lists
-- [List Comprehensions](./listComprehensions.html)
+- [List Comprehensions](./py_listComprehensions.html)
 
 ### Sets
 
 ### Dictionaries
 
 ### Tuples
-- [Named Tuples](./namedtuples.html)
+- [Named Tuples](./py_namedtuples.html)
 
 ### Functions
-- [Looping](./looping.html)
+- [Looping](./py_looping.html)
 - Lambda
-- [Map](./map.html)
-- [Filter](./filter.html)
+- [Map](./py_map.html)
+- [Filter](./py_filter.html)
 - Sorting
 
 # Accessors
-- [Open Files](./open.html)
+- [Open Files](./py_open.html)
 	
 # Error/Validations
-- [Exceptions](./exceptions.html)
-- [Assertions](./assertions.html)
-- [Logging](./logging.html)
-- [Unit Tests](./unitTest.html)
+- [Exceptions](./py_exceptions.html)
+- [Assertions](./py_assertions.html)
+- [Logging](./py_logging.html)
+- [Unit Tests](./py_unitTest.html)
 
 # Formatting
-- [Commas & Multilines](./commasMultiline.html)
+- [Commas & Multilines](./py_commasMultiline.html)
 
 # Modules
 - arcpy
@@ -35,4 +35,4 @@
 - CSV
 - Text
 
-# [Setup](./setup_py.html)
+# [Setup](./py_setup.html)
