@@ -7,4 +7,4 @@ future reference. I use the phrase "Python Trick" as defined in Dan Bader's book
 > it serves as a motivating example, enabling you to dig deeper and
 > develop an intuitive understanding.
 
-Feel free to contact me at sc8ttee@gmail.com
+Feel free to contact me at sc8ttee@gmail.com abc
