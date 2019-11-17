@@ -20,4 +20,4 @@ list(map(area, radii))
 
 * n/a
 
-Sources: [_Socratica_](https://youtu.be/hUes6y2b--0)
+Sources: [_Socratica_](./sources.html)

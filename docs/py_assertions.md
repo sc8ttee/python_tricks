@@ -30,4 +30,4 @@ else:
 * don't use for data validation
 * beware of asserts that never fail (i.e. tuples are truthy)
 
-Sources: _Bader_
+Sources: [_Bader_](./sources.html)

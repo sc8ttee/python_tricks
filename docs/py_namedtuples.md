@@ -18,4 +18,4 @@ pt1 = Point(1.0, 5.0)
 
 * n/a
 
-Sources: [_Hettinger_](https://youtu.be/OSGv2VnC0go)
+Sources: [_Hettinger_](./sources.html)

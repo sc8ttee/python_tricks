@@ -48,4 +48,4 @@ class TestCircleArea(unittest.TestCase):
 
 * n/a
 
-Sources: [_Socratica_](https://youtu.be/1Lfv5tUGsn8)
+Sources: [_Socratica_](./sources.html)

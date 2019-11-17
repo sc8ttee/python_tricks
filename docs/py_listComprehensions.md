@@ -31,4 +31,4 @@ pre2k = [title for (title, year) in movies if year < 2000]
 
 * n/a
 
-Sources: [_Socratica_](https://youtu.be/AhSvKGTh28Q)
+Sources: [_Socratica_](./sources.html)

@@ -25,4 +25,4 @@ list(filter(None, countries))
 
 * when filtering None, beware of 0's. 0 is often valid data
 
-Sources: [_Socratica_](https://youtu.be/hUes6y2b--0)
+Sources: [_Socratica_](./sources.html)

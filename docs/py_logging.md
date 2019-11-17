@@ -56,4 +56,4 @@ def quadraticFormula(a, b, c):
 
 * n/a
 
-Sources: [_Socratica_](https://youtu.be/g8nQ90Hk328)
+Sources: [_Socratica_](./sources.html)

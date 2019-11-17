@@ -57,4 +57,4 @@ def find(names, target):
 
 * n/a
 
-Sources: [_Hettinger_](https://youtu.be/OSGv2VnC0go)
+Sources: [_Hettinger_](./sources.html)

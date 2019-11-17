@@ -31,4 +31,4 @@ finally:
 
 * n/a
 
-Sources: [_Socratica_](https://youtu.be/nlCKrKGHSSk)
+Sources: [_Socratica_](./sources.html)
