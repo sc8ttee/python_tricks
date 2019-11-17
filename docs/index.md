@@ -3,5 +3,5 @@ layout: default
 ---
 
 ## [Python](./python.html)
-## [Sources & Resources](./sources.html)
+## [Sources](./sources.html)
 ## [About](./about.html)
