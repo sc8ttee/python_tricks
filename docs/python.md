@@ -34,3 +34,5 @@
 - JSON
 - CSV
 - Text
+
+# [Setup](./setup_py.html)
