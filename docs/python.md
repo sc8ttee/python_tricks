@@ -1,4 +1,4 @@
-# Iterables/Iterate
+## Iterables/Iterate
 
 ### Lists
 - [List Comprehensions](./py_listComprehensions.html)
@@ -17,22 +17,22 @@
 - [Filter](./py_filter.html)
 - Sorting
 
-# Accessors
+## Accessors
 - [Open Files](./py_open.html)
 	
-# Error/Validations
+## Error/Validations
 - [Exceptions](./py_exceptions.html)
 - [Assertions](./py_assertions.html)
 - [Logging](./py_logging.html)
 - [Unit Tests](./py_unitTest.html)
 
-# Formatting
+## Formatting
 - [Commas & Multilines](./py_commasMultiline.html)
 
-# Modules
+## Modules
 - arcpy
 - JSON
 - CSV
 - Text
 
-# [Setup](./py_setup.html)
+## [Setup](./py_setup.html)
