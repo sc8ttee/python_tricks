@@ -2,6 +2,7 @@
 - Python 2.7 installed with ArcGIS
 - Python 3.7 installed with Python's [Windows x86-64 web-based installer](https://www.python.org/downloads/release/python-373/)
 - Jupyter installed via [pip](https://jupyter.org/install.html)
+
 ```
 python -m pip install --upgrade pip
 python -m pip install jupyter
@@ -23,3 +24,4 @@ jupyter notebook
 
 ## misc.
 - [Installing pip](https://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py)
+- [Virtual Env](https://www.youtube.com/watch?v=N5vscPTWKOk)
